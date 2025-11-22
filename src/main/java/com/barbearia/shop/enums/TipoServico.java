@@ -8,7 +8,7 @@ public enum TipoServico {
     BARBA("Barba");
 
     private final String descricao;
-//sssss
+
     TipoServico(String descricao) {
         this.descricao = descricao;
     }
